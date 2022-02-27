@@ -1,0 +1,220 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles agreed by the Duke D'Anguien, Lieutenant Generall of the Kings army in Flanders and Luxenburgh, to the Marquesse De Leden, for the rendition of Dunkirke, and Fort Leon, to the obedience of the King of France. Also, a letter from Chester; containing the surrender of Denbigh-Castle in North-Wales; to be agreed, to be delivered to Major Generall Mitton. And the last newes from Ireland. Octob. the 19. 1646. These papers are examined, and published according to order of Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80303</idno>
+            <idno type="STC">Wing C5717A</idno>
+            <idno type="STC">Thomason E358_3</idno>
+            <idno type="STC">ESTC R201152</idno>
+            <idno type="EEBO-CITATION">99861700</idno>
+            <idno type="PROQUEST">99861700</idno>
+            <idno type="VID">159999</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80303)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159999)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 58:E358[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles agreed by the Duke D'Anguien, Lieutenant Generall of the Kings army in Flanders and Luxenburgh, to the Marquesse De Leden, for the rendition of Dunkirke, and Fort Leon, to the obedience of the King of France. Also, a letter from Chester; containing the surrender of Denbigh-Castle in North-Wales; to be agreed, to be delivered to Major Generall Mitton. And the last newes from Ireland. Octob. the 19. 1646. These papers are examined, and published according to order of Parliament.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E.E.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>16461 [sic, i.e. 1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "Octo 17"; 2nd 1 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Denbigh Castle (Denbigh, Wales) --  Siege, 1646 --  Early works to 1800.</term>
+               <term>Dunkerque (France) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>France --  History --  Louis XIV, 1643-1715 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159999:1" rendition="simple:additions"/>
+            <p>ARTICLES AGREED By the Duke <hi>D'ANGVJEN,</hi> Lieutenant Generall of the Kings ARMY in <hi>Flanders</hi> and <hi>Luxenburgh,</hi> to the Marqueſſe <hi>De Leden,</hi> for the rendition of <hi>Dunkirke,</hi> and Fort <hi>Leon,</hi> to the obedience of the King of FRANCE.</p>
+            <p>ALSO, A Letter from <hi>Cheſter;</hi> containing the ſurrender of DENBIGH-CASTLE in North-Wales; to be agreed, to be delivered to Major Generall <hi>Mitton.</hi>
+            </p>
+            <p>And the last Newes from <hi>Ireland.</hi>
+            </p>
+            <p>OCTOB. the 19. 1646.</p>
+            <p>Theſe Papers are examined, and publiſhed according to Order of <hi>Parliament.</hi>
+            </p>
+            <p>London Printed by <hi>E. E.</hi> 16461</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:159999:2"/>
+            <pb facs="tcp:159999:2"/>
+            <head>THE COPY OF A LETTER FROM The City of <hi>Cheſter.</hi>
+            </head>
+            <opener>
+               <salute>SIR</salute>
+            </opener>
+            <p>FOR the Rebels proceedings in Ireland, wee hear little ſince the laſt only that they increaſe, and that a Siege is feared at Dublin, to pre<g ref="char:EOLhyphen"/>vent which, great preparations are made, and care taken to mend the workes and take in ſuch ſupplies as is needfull; Digby is gone to Water ford, to treate with the Popes Nuntio: intending from
+<pb facs="tcp:159999:3"/>thence to paſſe beyond Sea, probably to act their deſignes; we heare that they are glad there that he is gone out of the Citie; it being ſaid, that had he not come thither (by all likelyhood) there had been an agreement betweene the Parliament, and the Marqueſſe of Ormond before this.</p>
+            <p>For newes here in Northwales it is thus, Major Generall Mitton hath had a poſſible deniall at Cono<g ref="char:EOLhyphen"/>way caſtle, and hath given order to prepare to batter it. Farliſh caſtle will ſtand or fall with the other 3. it being more conſiderable, by reaſon of thoſe with<g ref="char:EOLhyphen"/>in it, then of the place it ſelf.</p>
+            <p>The Major Generall after a long capitulation with Salisbury, the Governour of Denbigh caſtle, hath agreed to have it ſurrendred to him.</p>
+            <p>I hear that there are in Denbigh caſtle, of Denbigh only one piece of Canon, which was made in the ca<g ref="char:EOLhyphen"/>ſtle ſince they kept it againſt the Parliament, and but few Armes, nor any great ſtore of proviſion. There is with Mr. Salisbury, ſir Wil. Gerhard, and ſome 20 Officers, or thereabouts, and about 2 or 300 ſoldiers, but few horſe. The particulars you ſhall receive more fully by the firſt opportunity (God willing.) Holt caſtle is parlying, and there is hopes of the ren<g ref="char:EOLhyphen"/>dition of it alſo, but no concluſion as yet. On Friday next we are to chuſe Officers for this city, (God grant that we have good ones.)</p>
+            <p>Sir, This is all at this preſent, to trouble you, from</p>
+            <closer>
+               <dateline>
+                  <hi>Cheſter</hi> 
+                  <date>
+                     <hi>Octob.</hi> 4. 1646.</date>
+               </dateline>
+               <signed>
+                  <hi>Your very humble ſervant</hi> E, A.</signed>
+            </closer>
+         </div>
+         <div type="document">
+            <pb facs="tcp:159999:3"/>
+            <head>Articles agreed by <hi>Monſier,</hi> the Duke of <hi>Anguien,</hi> Lieutenant Generall of the Kings Army in <hi>Flanders,</hi> and <hi>Luxemburge,</hi> to <hi>Monſier</hi> the Marqueſſe <hi>De-Leden,</hi> Gover<g ref="char:EOLhyphen"/>nour of the Towne of <hi>Dunkirke,</hi> for the rendiſſion of the ſaid Towne, and Fort <hi>Leon,</hi> to the obedience of the moſt Chriſtian King.</head>
+            <p n="1">1. IT is agreed that the ſaid Towne of <hi>Dunkirke,</hi> with the Fort of <hi>Leon,</hi> and all the fortifications, and dependances be reſtored to his Highneſſe, by the ſaid Marqueſſe <hi>D<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>-Leden,</hi> on Thurſday next the 11. of this preſent moneth, in the ſame con<g ref="char:EOLhyphen"/>dition that all is at preſent, by 7. a clock in the morning, with all the Ordinance, and Ammunitions of warre, and of worth, that are in the ſaid Magazines, of the ſaid Towne, and in any o<g ref="char:EOLhyphen"/>ther reſerve whatſoever; for the defence and conſervation of the ſaid Towne: At which hower ſhall iſſue forth of the ſaid Towne the Mr. <hi>De-Led<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> with the Sargeant Generall of the battle, all the Collonels, and Officers, and generally all men of warre that are in the ſaid Towne, and Fort <hi>Leon,</hi> both Horſe and Foote, with Armes, Baggage, Matches lighted, Cullers fly<g ref="char:EOLhyphen"/>ing, and Drums beating, and 2. Peice of Ordinance without any let or moleſtation under what pretence ſoever; and that they ſhall be conducted the ſame day (in all ſafety with a good and ſufficient Convoy) to <hi>Newport.</hi>
+            </p>
+            <p n="3">3. That on Wedneſday next the 10. of the ſaid moneth, at 6. of the clock in the after noone, the gate of the ſaid Towne, called <hi>Newport Gate,</hi> ſhall be delivered, and put under the power of his Highneſſe to be kept by his forces, which he ſhall appoint for that purpoſe.</p>
+            <p n="3">3. And (for a more eaſy execration of the preſent treaty) it is agreed that there ſhall be (from this preſent time) a generall Ceſſation, betweene both parties, untill the ſaid day <hi>(viz.)</hi> Thurſday the 11. During which time there ſhall be no ſhooting neither from the one party, nor the other: And that all the forces ſhall (every one) remaine in their quarters without wor<g ref="char:EOLhyphen"/>king, advancing, or having any communication, but ſuch as ſhall be permitted by (the generalls of) both parties.</p>
+            <pb facs="tcp:159999:4"/>
+            <p n="4">4 That (on this preſent day) <hi>Sentinels</hi> ſhall be appointed (by both parties) to ſtop the further continuation of making workes, onely what ſhall be permitted to be prepaired, by both parties, and in preſence of the <hi>Centinels,</hi> they adviſing with the other party, in caſe that the workes ſhall happen to fall to ru<g ref="char:EOLhyphen"/>ine.</p>
+            <p n="5">5. There ſhall be alſo a <hi>Centinel</hi> upon the ſea port to take care, and advice of what may paſſe in; or out of it, to whom it ſhall be permitted to viſit all veſſels, boates, that ſhall paſſe in or out.</p>
+            <p n="6">6. It is likewiſe agreed, that all Officers and ſouldiers of the Navy, and admiralty, the Councellers, Officers, and other ſer<g ref="char:EOLhyphen"/>vants of the Catholick King, (which are in the ſaid Towne) may go out with the ſame liberty.</p>
+            <p n="7">7. As alſo the ſaid Marqueſſe <hi>De-Leden</hi> ſhall have liberty to march out with 2. Peice of Ordinance aforeſaid, and 6. other ſmall peices of Cannon of the Baron of <hi>Lamboyes</hi> Army, with their Horſes, Charets, Officers, and Servants.</p>
+            <p n="8">8. That all the Inhabitants of the ſaid Towne (as well <hi>Ec<g ref="char:EOLhyphen"/>cleſiaſticall</hi> as others) of what quality, and condiſſion ſoever they be, ſhall be concerned in their Eſtates, Priviledges, and Franchiſes, (which they have hitherto enjoyed) without any new charges or impoſitions.</p>
+            <p n="9">9. That all (as well the ſaid Inhabitants as reſidents) in the ſaid Towne, that ſhall be willing to go forth, with the ſaid Gariſon, or 2. moneths after, may do it freely without any in<g ref="char:EOLhyphen"/>terception, with all their moveable Eſtates: And 2 yeares ſpace granted unto them to ſell their moveables, and diſpoſe of them, as they ſhall thinke fi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <p n="10">10. It is likewiſe agreed, that if within the ſaid time <hi>(viz.)</hi> before Wedneſday next at 6. a clock at night, the ſaid Towne ſhall be releived by land, by the Army of the Catholick King, and that it ſhall cauſe the Army of the moſt Chriſtian King to retire, that then all the ſaid things agreed upon, ſhall remaine <hi>nul:</hi> And the ſaid Towne remaine in the ſame condition that now it is: And in the meane time the beſieged ſhall not receive any ſuccor, neither by ſea, nor land, other then that which ſh<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll forſe the ſeidge to raiſe; And in caſe that any ſhall
+<pb facs="tcp:159999:4"/>put themſelves in defence, nor ſhall make any hoſtill, out in fa<g ref="char:EOLhyphen"/>vour thereof.</p>
+            <p n="11">11. That if (within the ſaid time) any ſuccor (ſent from the enemy) ſhall enter the ſaid Towne, that at that very ſame inſtant, paſports ſhall be forthwith given them to retire.</p>
+            <p n="12">12. It is alſo agreed, that if before the ſaid day: <hi>(viz.)</hi> Wedneſday the 10. a peace (betweene the two Crownes) ſhall be publiſhed, then both parties ſhall remaine in the ſame ſtate as at preſent. And that the preſent treaty ſhall not prejudice thoſe at <hi>Munſter,</hi> if publiſhed as aforeſaid.</p>
+            <p n="13">13. A paſport ſhall be ſpeedily given unto him who ſhall be named by the ſaid Mr. the Marqueſſe <hi>De-Leden</hi> to go unto Mr. the Duke D' <hi>Amalphi,</hi> and to returne in all ſafety.</p>
+            <p n="14">14. And for the entire execution of the preſent treaty (which by our faith and peroll we engadge) there ſhall be given (this day) for Hoſtages, from the Sir Marqueſſe <hi>De-Ledens</hi> part, one Collonel of the <hi>Kings,</hi> another of <hi>Lamboyes,</hi> A Captaine that commands the <hi>Spaniards:</hi> two <hi>Burgaſes</hi> of the Magiſtrates, and one Officer of the admiralty: And at the ſame time that the gate of the lowne ſhall be delivered into the hands of his Highneſſe, there ſhall alſo be given by his Highneſſe (for Hoſta<g ref="char:EOLhyphen"/>ges) 2. Collonels, and 4. Captaines.</p>
+            <p n="15">15. The priſoners of either party ſhall be ſet at Liber<g ref="char:EOLhyphen"/>ty.</p>
+            <p n="16">16. That <hi>Charets</hi> and <hi>Bela<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>des</hi> ſhall be provided for the ſick and wounded, to carry them to Newport.</p>
+            <p n="17">17. And this preſent treaty is ſigned by both parties, one to remaine in the hands of highneſſe, and the other in the hands of the Marqueſſe <hi>De-Leden.</hi>
+            </p>
+            <pb facs="tcp:159999:5"/>
+            <closer>
+               <dateline>Made and agreed in the Campe before DVNKJRKE, <date>the 6. of <hi>October</hi> 1646.</date>
+               </dateline>
+               <signed>
+                  <hi>Signed.</hi> LO<g ref="char:V">Ʋ</g>JS de BOVRBON. DE-LEDEN, Marqueſse.</signed>
+            </closer>
+         </div>
+         <div type="account">
+            <list>
+               <head>There marched out according to the Articles.</head>
+               <item>20. Generall Officers, and Collonels.</item>
+               <item>100. Other Officers.</item>
+               <item>800. Souldiers, with</item>
+               <item>40. Carridges.</item>
+               <item>200. Horſe.</item>
+               <item>8. Peice of Ordinance.</item>
+               <item>1300. Armes.</item>
+               <item>30. Cullers.</item>
+            </list>
+            <list>
+               <head>There were left in Dunkirke Fort Lyon on the River.</head>
+               <item>50. Barkes and Boates:</item>
+               <item>100. Peice of Ordinance.</item>
+               <item>500. Armes.</item>
+               <item>Proviſions for a moneth.</item>
+               <item>20. Barrels of Gunpowder.</item>
+               <item>200. Souldiers lame, ſick and others to paſſe away af<g ref="char:EOLunhyphen"/>ter they were conveyed to Newport.</item>
+            </list>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
